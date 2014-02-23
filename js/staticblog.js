@@ -106,7 +106,7 @@
         }
         tags["All"] = {
           "text": "All",
-          "href": "#/",
+          "href": "#/Scan",
           "count": indexData.length
         };
         return tags;
