@@ -1,10 +1,10 @@
 {
     "title" : "扫漫",
-    "subTitle" : "Unlimited Scan Works",
+    "subTitle" : "不积跬步无以至千里",
     "quickLinks" : [
         {"text" : "Blog", "href" : "/"},
-        {"text" : "NGA", "href" : "http://weibo.com/brucelv"}
-        {"text" : "NGA", "href" : "http://weibo.com/brucelv"}
+        {"text" : "NGA", "href" : "http://weibo.com/brucelv"},
+        {"text" : "NGA", "href" : "http://weibo.com/brucelv"},
         {"text" : "NGA", "href" : "http://bbs.ngacn.cc/thread.php?fid=-447601"}
     ]
 }
