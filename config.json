@@ -3,7 +3,7 @@
     "subTitle" : "Unlimited Scan Works",
     "quickLinks" : [
         {"text" : "Blog", "href" : "/"},
-		{"text" : "NGA", "href" : "http://bbs.ngacn.cc/thread.php?fid=-447601"}
+		{"text" : "NGA", "href" : "http://bbs.ngacn.cc/thread.php?fid=-447601"},
         {"text" : "LinkedIn", "href" : "www.linkedin.com/in/tianlongli/"},
         {"text" : "Github", "href" : "https://github.com/MonkeyLeeT"},
     ]
