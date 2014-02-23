@@ -1,4 +1,4 @@
-lvkun.github.com
+http://monkeyleet.github.io/Scan/
 ================
 
-Personal Blog of Lvkun
+放一些老的存档的，以后计划加入自动同步功能。
