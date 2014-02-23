@@ -2,7 +2,7 @@
     "title" : "扫漫",
     "subTitle" : "Unlimited Scan Works",
     "quickLinks" : [
-        {"text" : "Blog", "href" : "/"},
+        {"text" : "Blog", "href" : "/Scan/"},
         {"text" : "NGA(出没地)", "href" : "http://bbs.ngacn.cc/thread.php?fid=-447601"},
         {"text" : "Github", "href" : "https://github.com/MonkeyLeeT"},
         {"text" : "LinkedIn", "href" : "https://linkedin.com/in/tianlongli/"}
